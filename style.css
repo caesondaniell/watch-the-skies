@@ -163,7 +163,7 @@ h3 {
 
     .container {
         grid-template-columns: 1fr;
-        grid-template-rows: 15% 85%;
+        grid-template-rows: max(100px, 15%) max(1fr, 85%);
     }
 
     .sidebar {
