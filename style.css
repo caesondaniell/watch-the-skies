@@ -163,13 +163,13 @@ h3 {
 
     .container {
         grid-template-columns: 1fr;
-        grid-template-rows: 10% 90%;
+        grid-template-rows: 12% 88%;
     }
 
     .sidebar {
     display: grid;
     grid-template-rows: 1fr 1fr;
-    grid-template-columns: 2fr 1fr;
+    grid-template-columns: 1fr 150px;
     justify-items: left;
     }
 
