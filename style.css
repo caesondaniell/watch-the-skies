@@ -140,7 +140,6 @@ img {
     display: grid; 
     gap: 1em;
     overflow: auto;
-    position: relative;
 }
 
 h3 {
